@@ -1,6 +1,6 @@
 # Essays
 
-Lots of good essays have been written about the flaws of the journal-based academic publishing system, and the need for alternative systems. Here's a few good ones.
+Lots of essays have been written about the flaws of the journal-based academic publishing system, and the need for alternative systems. Here's a few good ones.
 
 ### Future of Science
 
