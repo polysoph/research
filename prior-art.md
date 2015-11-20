@@ -25,6 +25,7 @@ There's several other platforms that are trying to fill an adjacent need.
 * [Experiment](https://experiment.com), crowd-funded research platform
 * [Authorea](https://authorea.com), collaborative paper editor
 * [Confluence](https://www.atlassian.com/software/confluence), generalized wiki platform
+* [Zenodo](https://zenodo.org), platform to share and archive research results
 * [Innocentive](http://www.innocentive.com/)
 * [Eli Lilly](http://www.lilly.ca/en/index.aspx)
 
