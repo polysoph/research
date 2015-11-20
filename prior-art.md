@@ -8,15 +8,17 @@ Lots of essays have been written about the flaws of the journal-based academic p
 
 * [The Future of Science](http://michaelnielsen.org/blog/the-future-of-science-2/) by [Michael Nielsen](http://michaelnielsen.org/)
 * [Reinventing Discovery](https://www.youtube.com/watch?v=Kf2qO0plUKs) by [Michael Nielsen](http://michaelnielsen.org/)
+* [YC Research](https://ycr.org/) by [Y Combinator](https://www.ycombinator.com/)
 
 ##### Open-Access & Journals
 
 * [Academic Journals: The Most Profitable Obsolete Technology in History](http://jasonschmitt.com/post/106918640086/academic-journals-the-most-profitable-obsolete) by [Jason Schmitt](http://www.jasonschmitt.com/)
+* [Will Traditional Science Journals Disappear?](http://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear) by [Dorothy Bishop](http://www.psy.ox.ac.uk/team/dorothy-bishop)
 
 
 ### Related Tools
 
-There's several other platforms that are looking to fill a similar need.
+There's several other platforms that are trying to fill an adjacent need.
 
 ##### Knowledge Produciton
 
