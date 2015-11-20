@@ -15,6 +15,7 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 
 ##### Conceptual
 
+* How can we improve the development of scientific knowledge?
 * How can we design a tool that allocates expert attention optimally? ([source](https://youtu.be/Kf2qO0plUKs?t=12m12s))
 * How can we restructure the culture of science to accept non-standard forms of contribution? ie. beyond papers and grant submissions ([source]())
 * How can we establish a cultural link between sharing knowledge and career success for scientists?
