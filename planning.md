@@ -16,6 +16,10 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 
 ## Platform Questions
 
+##### Meta
+
+* Is this about large and unsolvable scientific problems? Or is this about an everyday tool? Which is more valuable? To whom?
+
 ##### Conceptual
 
 * How can we improve the development of scientific knowledge?
