@@ -20,12 +20,13 @@ Lots of essays have been written about the flaws of the journal-based academic p
 
 There's several other platforms that are trying to fill an adjacent need.
 
-##### Knowledge Produciton
+##### Knowledge Production
 
 * [Experiment](https://experiment.com), crowd-funded research platform
 * [Authorea](https://authorea.com), collaborative paper editor
 * [Confluence](https://www.atlassian.com/software/confluence), generalized wiki platform
 * [Zenodo](https://zenodo.org), platform to share and archive research results
+* [Open Science Framework](https://osf.io/), a "scholarly collaboration tool"
 * [Innocentive](http://www.innocentive.com/)
 * [Eli Lilly](http://www.lilly.ca/en/index.aspx)
 
