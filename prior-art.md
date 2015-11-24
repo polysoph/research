@@ -16,7 +16,6 @@ Lots of essays have been written about the flaws of the journal-based academic p
 * [Academic Journals: The Most Profitable Obsolete Technology in History](http://jasonschmitt.com/post/106918640086/academic-journals-the-most-profitable-obsolete) by [Jason Schmitt](http://www.jasonschmitt.com/)
 * [Will Traditional Science Journals Disappear?](http://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear) by [Dorothy Bishop](http://www.psy.ox.ac.uk/team/dorothy-bishop)
 
-
 ### Related Tools
 
 There's several other platforms that are trying to fill an adjacent need.
@@ -34,3 +33,5 @@ There's several other platforms that are trying to fill an adjacent need.
 
 * [PLoS ONE](http://www.plosone.org/), an open-access journal whose only metric for acceptance is academic rigour (rather than significance or aligning with the subject of a journal). The PLoS ONE model has been adapted by others and is now known as a [megajournal](https://en.wikipedia.org/wiki/Mega_journal).
 * [ArXiv](http://arxiv.org), a repository of pre-print physics/mathematics articles. Hosted by Cornell University.
+
+Github also has a great showcase of [science-based projects](https://github.com/showcases/science).
