@@ -1,7 +1,21 @@
 Some questions to ask scientific researchers during interviews: 
 
+### "Wide" Questions
+
+* What do you research?
+* How large is the team you're working on?
 * How would you describe your research process? What are the steps you go through?
-* What information tools and processes do you use to conduct research?
-* How do you currently share information? Is it one-off (someone asks, I email them things), or is it systematic (working in the open such as with Github)?
+
+### "Narrow" Questions
+
+* What kinds of information tools and processes do you use to conduct research?
+* How do you work with other people on your team? How do you share information with them?
+* What do you do when you encounter a problem outside of your skill set?
 * How do you apply for grants?
 * How do you measure research impact for grants?
+
+### Interview Result Analysis Questions
+
+Some questions to help me interpret and understand the responses:
+
+* How do they communicate? Is the process one-off (eg. emails) or is it systematic ("working in the open")? Draw a diagram about it.
