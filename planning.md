@@ -22,7 +22,7 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 * Version controlled documents, semantically released. In other words, Github's "tags" as published papers. This model allows for revisions and edits, but still lets you trace things back to the original source.
 * Allow writing of a culminatory paper in the tool? Mostly because it would allow us to prompt them to submit the research to open journals, and provide tools for automated review about format and structure.
 * Research question prizes? Work with organizations? Similar to [Innocentive](http://www.innocentive.com).
-* LaTeX rendering in comments (killer feature for physicists and mathematicians)
+* LaTeX or MathML rendering in comments (killer feature for physicists and mathematicians)
 
 ## Platform Questions
 
