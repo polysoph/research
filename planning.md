@@ -1,5 +1,14 @@
 # Planning
 
+## Design Challenge
+
+> How can we better allow the intermingling of ideas and disciplines within science?
+
+Why bother exploring this?
+
+1. Improved accessiblity of science
+2. Improved quality of ideas
+
 ## Platform Ideas
 
 Here's a dumping of ideas I've had while doing research. These will later need to be prioritized and validated.
