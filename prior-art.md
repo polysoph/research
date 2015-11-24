@@ -10,6 +10,7 @@ Lots of essays have been written about the flaws of the journal-based academic p
 * [Reinventing Discovery](https://www.youtube.com/watch?v=Kf2qO0plUKs) by [Michael Nielsen](http://michaelnielsen.org/)
 * [YC Research](https://ycr.org/) by [Y Combinator](https://www.ycombinator.com/)
 * Science is Broken ([Part 1](https://medium.com/@lorraine_chu3n/science-is-broken-part-1-68b0a9ccd45a#.ytqx1wh82), and [Part 2](https://medium.com/@lorraine_chu3n/science-is-broken-being-open-could-fix-it-2a2f258a3ff3#.qh58ydacr)) by [Lorraine Chuen](https://twitter.com/lorrainechu3n/)
+* [What can a technologist do about climate change?](http://worrydream.com/ClimateChange/#tools-finding) by [Bret Victor](http://worrydream.com)
 
 ##### Open-Access & Journals
 
