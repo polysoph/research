@@ -28,12 +28,16 @@ There's several other platforms that are trying to fill an adjacent need.
 * [Confluence](https://www.atlassian.com/software/confluence), generalized wiki platform
 * [Zenodo](https://zenodo.org), platform to share and archive research results
 * [Open Science Framework](https://osf.io/), a "scholarly collaboration tool"
-* [Innocentive](http://www.innocentive.com/)
-* [Eli Lilly](http://www.lilly.ca/en/index.aspx)
+* [Overleaf](https://www.overleaf.com/), a collaborative paper editor with LaTeX features. Like Google Docs for scientists
+* [Zooniverse](https://www.zooniverse.org/), an online platform for non-expert contributions to science through performing menial tasks. Similar to [FoldIt](https://fold.it/portal/)
+* [Innocentive](http://www.innocentive.com/), a problem-based scientific research platform. People who solve problems are rewarded with a financial incentive (often from sponsoring companies)
+* [Eli Lilly](http://www.lilly.ca/en/index.aspx), like Innocentive, but focused around medical advances within Canada 
 
 ##### Knowledge Distribution
 
 * [PLoS ONE](http://www.plosone.org/), an open-access journal whose only metric for acceptance is academic rigour (rather than significance or aligning with the subject of a journal). The PLoS ONE model has been adapted by others and is now known as a [megajournal](https://en.wikipedia.org/wiki/Mega_journal).
 * [ArXiv](http://arxiv.org), a repository of pre-print physics/mathematics articles. Hosted by Cornell University.
+* [F1000 Research](http://f1000research.com/), an open-access publishing platform that incorporates _open peer review_ to help avoid traditional editorial biases.
+
 
 Github also has a great showcase of [science-based projects](https://github.com/showcases/science).
