@@ -17,6 +17,10 @@ Lots of essays have been written about the flaws of the journal-based academic p
 * [Academic Journals: The Most Profitable Obsolete Technology in History](http://jasonschmitt.com/post/106918640086/academic-journals-the-most-profitable-obsolete) by [Jason Schmitt](http://www.jasonschmitt.com/)
 * [Will Traditional Science Journals Disappear?](http://www.theguardian.com/science/head-quarters/2015/may/12/will-traditional-science-journals-disappear) by [Dorothy Bishop](http://www.psy.ox.ac.uk/team/dorothy-bishop)
 
+### Initiatives
+
+* [Open notebook science](https://en.wikipedia.org/wiki/Open_notebook_science), a movement started by [Jean-Claude Bradley](https://en.wikipedia.org/wiki/Jean-Claude_Bradley)
+
 ### Related Tools
 
 There's several other platforms that are trying to fill an adjacent need.
