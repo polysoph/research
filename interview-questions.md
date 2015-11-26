@@ -10,6 +10,7 @@ Some questions to ask scientific researchers during interviews:
 
 * What kinds of information tools and processes do you use to conduct research?
 * How do you work with other people on your team? How do you share information with them?
+* What would your ideal research team look like for your current area of study? Who around the world has knowledge about your area of inquiry?
 * What do you do when you encounter a problem outside of your skill set?
 * How do you apply for grants?
 * How do you measure research impact for grants?
