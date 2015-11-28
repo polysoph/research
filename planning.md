@@ -16,6 +16,7 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 * Track contributions ([like Github](https://github.com/sindresorhus/xo/graphs/contributors)), to allow universities and grant organizations to see how much they've contributed to specific bits of research.
 * Allow users to reference other works on the platform in their writing, as well as works recorded elsewhere (Google Scholar).
 * See a chain of citations and references for the research (What is this problem/question drawing on? what did those things draw upon?)
+* Document progress on idea development through a ["pull request"](https://github.com/sindresorhus/xo/pull/32) style view. All relevant work and conversation is brought to one place.
 * Allow users to follow updates for a given problem or a given field (cross-disciplinarity)
 * Providing DOIs for contributions. Github started doing this (source: Jamie Elwick)
 * Getting results into [Google Scholar](https://scholar.google.com). It sounds like this is an integral part of hiring meetings, so having results appear in GS ensures a base level of community acceptance ([source](https://youtu.be/Kf2qO0plUKs?t=42m20s))
