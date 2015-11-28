@@ -2,12 +2,10 @@
 
 ## Design Challenge
 
-> How can we better allow the intermingling of ideas and disciplines within science?
+How can we better allow the intermingling of ideas and disciplines within science?
 
-Why bother exploring this?
-
-1. Improved accessiblity of science
-2. Improved quality of ideas
+1. To improve the accessiblity of science
+2. To improve the quality of ideas
 
 ## Platform Ideas
 
@@ -47,3 +45,10 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 * Whose job is it to write something up into a completed paper? Are papers even the goal?
 * How do you manage discussions with various "threads"?
 * Should we connect researchers who are asking similar questions? Getting the same expers together? (See [the example of Richard Tilley](http://sciencelearn.org.nz/Contexts/Nanoscience/Sci-Media/Video/Scientists-working-together))
+
+
+## Notes
+
+> "A brutally simple mental model of the software that’s shared by all users turns out to be a better predictor of adoption and value than a completely crazy collection of features that ends up being slightly different for every user."
+>
+> — Clay Shirky, [interview about the social web](http://blogs.wsj.com/buzzwatch/2008/05/05/wisdom-on-crowds-what-ceos-need-to-know-about-the-social-web/)
