@@ -47,6 +47,18 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 * Should we connect researchers who are asking similar questions? Getting the same expers together? (See [the example of Richard Tilley](http://sciencelearn.org.nz/Contexts/Nanoscience/Sci-Media/Video/Scientists-working-together))
 
 
+## Sample Content
+
+##### Examples
+
+* [P=NP](https://en.wikipedia.org/wiki/P_versus_NP_problem), computer science
+
+
+##### Lists
+
+* [List of unsolved problems in physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+* [List of unsolved problems in computer science](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_computer_science)
+
 ## Notes
 
 > "A brutally simple mental model of the software that’s shared by all users turns out to be a better predictor of adoption and value than a completely crazy collection of features that ends up being slightly different for every user."
