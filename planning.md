@@ -44,7 +44,7 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 * How do we give credit to contributors?
 * Whose job is it to write something up into a completed paper? Are papers even the goal?
 * How do you manage discussions with various "threads"?
-* Should we connect researchers who are asking similar questions? Getting the same expers together? (See [the example of Richard Tilley](http://sciencelearn.org.nz/Contexts/Nanoscience/Sci-Media/Video/Scientists-working-together))
+* Should we connect researchers who are asking similar questions? Getting the same experts together? (See [the example of Richard Tilley](http://sciencelearn.org.nz/Contexts/Nanoscience/Sci-Media/Video/Scientists-working-together))
 
 
 ## Sample Content
