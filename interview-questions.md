@@ -5,6 +5,7 @@ Some questions to ask scientific researchers during interviews:
 * What do you research?
 * How large is the team you're working on?
 * How would you describe your research process? What are the steps you go through?
+* How do you contribute to research projects other than your own?
 
 ### "Narrow" Questions
 
