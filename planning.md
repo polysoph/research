@@ -22,6 +22,7 @@ Here's a dumping of ideas I've had while doing research. These will later need t
 * Allow writing of a culminatory paper in the tool? Mostly because it would allow us to prompt them to submit the research to open journals, and provide tools for automated review about format and structure.
 * Research question prizes? Work with organizations? Similar to [Innocentive](http://www.innocentive.com).
 * LaTeX or MathML rendering in comments (killer feature for physicists and mathematicians)
+* Allow projects to lay out base assumptions (with references) so that the project doesn't get bogged down by arguing fundamentals. Related to seeing a chain of citations
 
 ## Platform Questions
 
